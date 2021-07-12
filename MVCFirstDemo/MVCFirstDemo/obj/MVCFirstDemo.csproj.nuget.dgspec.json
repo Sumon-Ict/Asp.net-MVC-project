@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Asp.net code\\Asp.net-code-practise-with-devskill\\MVCFirstDemo\\MVCFirstDemo\\MVCFirstDemo.csproj": {}
+    "H:\\MVC project\\Asp.net-MVC-project\\MVCFirstDemo\\MVCFirstDemo\\MVCFirstDemo.csproj": {}
   },
   "projects": {
-    "H:\\Asp.net code\\Asp.net-code-practise-with-devskill\\MVCFirstDemo\\MVCFirstDemo\\MVCFirstDemo.csproj": {
+    "H:\\MVC project\\Asp.net-MVC-project\\MVCFirstDemo\\MVCFirstDemo\\MVCFirstDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Asp.net code\\Asp.net-code-practise-with-devskill\\MVCFirstDemo\\MVCFirstDemo\\MVCFirstDemo.csproj",
+        "projectUniqueName": "H:\\MVC project\\Asp.net-MVC-project\\MVCFirstDemo\\MVCFirstDemo\\MVCFirstDemo.csproj",
         "projectName": "MVCFirstDemo",
-        "projectPath": "H:\\Asp.net code\\Asp.net-code-practise-with-devskill\\MVCFirstDemo\\MVCFirstDemo\\MVCFirstDemo.csproj",
+        "projectPath": "H:\\MVC project\\Asp.net-MVC-project\\MVCFirstDemo\\MVCFirstDemo\\MVCFirstDemo.csproj",
         "packagesPath": "C:\\Users\\Md Sumon Mia\\.nuget\\packages\\",
-        "outputPath": "H:\\Asp.net code\\Asp.net-code-practise-with-devskill\\MVCFirstDemo\\MVCFirstDemo\\obj\\",
+        "outputPath": "H:\\MVC project\\Asp.net-MVC-project\\MVCFirstDemo\\MVCFirstDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Md Sumon Mia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -67,6 +67,14 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[5.0.2, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[5.0.0, )"
             }
           },
           "imports": [
