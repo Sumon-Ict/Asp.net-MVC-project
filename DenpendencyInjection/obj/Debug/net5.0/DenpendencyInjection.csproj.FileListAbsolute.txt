@@ -1,0 +1,16 @@
+H:\MVC project\Asp.net-MVC-project\MVCFirstDemo\DenpendencyInjection\bin\Debug\net5.0\DenpendencyInjection.exe
+H:\MVC project\Asp.net-MVC-project\MVCFirstDemo\DenpendencyInjection\bin\Debug\net5.0\DenpendencyInjection.deps.json
+H:\MVC project\Asp.net-MVC-project\MVCFirstDemo\DenpendencyInjection\bin\Debug\net5.0\DenpendencyInjection.runtimeconfig.json
+H:\MVC project\Asp.net-MVC-project\MVCFirstDemo\DenpendencyInjection\bin\Debug\net5.0\DenpendencyInjection.runtimeconfig.dev.json
+H:\MVC project\Asp.net-MVC-project\MVCFirstDemo\DenpendencyInjection\bin\Debug\net5.0\DenpendencyInjection.dll
+H:\MVC project\Asp.net-MVC-project\MVCFirstDemo\DenpendencyInjection\bin\Debug\net5.0\ref\DenpendencyInjection.dll
+H:\MVC project\Asp.net-MVC-project\MVCFirstDemo\DenpendencyInjection\bin\Debug\net5.0\DenpendencyInjection.pdb
+H:\MVC project\Asp.net-MVC-project\MVCFirstDemo\DenpendencyInjection\obj\Debug\net5.0\DenpendencyInjection.csprojAssemblyReference.cache
+H:\MVC project\Asp.net-MVC-project\MVCFirstDemo\DenpendencyInjection\obj\Debug\net5.0\DenpendencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+H:\MVC project\Asp.net-MVC-project\MVCFirstDemo\DenpendencyInjection\obj\Debug\net5.0\DenpendencyInjection.AssemblyInfoInputs.cache
+H:\MVC project\Asp.net-MVC-project\MVCFirstDemo\DenpendencyInjection\obj\Debug\net5.0\DenpendencyInjection.AssemblyInfo.cs
+H:\MVC project\Asp.net-MVC-project\MVCFirstDemo\DenpendencyInjection\obj\Debug\net5.0\DenpendencyInjection.csproj.CoreCompileInputs.cache
+H:\MVC project\Asp.net-MVC-project\MVCFirstDemo\DenpendencyInjection\obj\Debug\net5.0\DenpendencyInjection.dll
+H:\MVC project\Asp.net-MVC-project\MVCFirstDemo\DenpendencyInjection\obj\Debug\net5.0\ref\DenpendencyInjection.dll
+H:\MVC project\Asp.net-MVC-project\MVCFirstDemo\DenpendencyInjection\obj\Debug\net5.0\DenpendencyInjection.pdb
+H:\MVC project\Asp.net-MVC-project\MVCFirstDemo\DenpendencyInjection\obj\Debug\net5.0\DenpendencyInjection.genruntimeconfig.cache
