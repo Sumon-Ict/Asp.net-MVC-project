@@ -889,3 +889,6 @@ H:\MVC project\Asp.net-MVC-project\MVCFirstDemo\MVCFirstDemo\obj\Debug\net5.0\MV
 H:\MVC project\Asp.net-MVC-project\MVCFirstDemo\MVCFirstDemo\obj\Debug\net5.0\ref\MVCFirstDemo.dll
 H:\MVC project\Asp.net-MVC-project\MVCFirstDemo\MVCFirstDemo\obj\Debug\net5.0\MVCFirstDemo.pdb
 H:\MVC project\Asp.net-MVC-project\MVCFirstDemo\MVCFirstDemo\obj\Debug\net5.0\MVCFirstDemo.genruntimeconfig.cache
+H:\MVC project\Asp.net-MVC-project\MVCFirstDemo\MVCFirstDemo\bin\Debug\net5.0\Autofac.dll
+H:\MVC project\Asp.net-MVC-project\MVCFirstDemo\MVCFirstDemo\bin\Debug\net5.0\Autofac.Extensions.DependencyInjection.dll
+H:\MVC project\Asp.net-MVC-project\MVCFirstDemo\MVCFirstDemo\obj\Debug\net5.0\Razor\Views\Dashboard\DatabaseService.cshtml.g.cs

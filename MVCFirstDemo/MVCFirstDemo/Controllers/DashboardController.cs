@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using MVCFirstDemo.Models;
+using MVCFirstDemo.Services;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,6 +10,13 @@ namespace MVCFirstDemo.Controllers
 {
     public class DashboardController : Controller
     {
+
+        private IDatabaseService _databaseService;
+
+        public DashboardController(IDatabaseService databaseService)
+        {
+            _databaseService = databaseService;
+        }
         public IActionResult Index()
         {
             return View();
@@ -19,6 +27,15 @@ namespace MVCFirstDemo.Controllers
             var model = new SummaryModel();  //defaut value displayed
 
             return View(model);
+
+        }
+
+        public IActionResult DatabaseService()
+        {
+            var result = _databaseService.Name();
+
+
+            return View();
 
         }
     }
