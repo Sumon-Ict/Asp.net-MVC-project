@@ -1,0 +1,52 @@
+﻿@model FormModel
+@{
+    ViewData["Title"] = "FormCreate";
+}
+
+<h1>FormCreation for the Student information </h1>
+
+
+
+<form asp-controller="Dashboard" asp-action="FormCeate" asp-antiforgery="true" method="post" class="form-horizontal">
+
+    <h1>Tag Helper approach</h1>
+    <hr />
+
+    <div asp-validation-summary="All" class="text-danger"></div>  <!-- comment writing process-->
+
+    <div class="form-group">
+        <label asp-for="Email" class="col-md-2 control-label"></label>
+        <div class="col-md-10">
+            <input asp-for="Email" class="form-control" />
+            <span asp-validation-for="Email" class="text-danger"></span>
+
+        </div>
+    </div>
+    <div class="form-group">
+        <label asp-for="Password" class="col-md-2 control-label"></label>
+        <div class="col-md-10">
+            <input asp-for="Password" class="form-control" />
+            <span asp-validation-for="Password" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="ConfirmPassword" class="col-md-2 control-label"></label>
+        <div class="col-md-10">
+            <input asp-for="ConfirmPassword" class="form-control" />
+            <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-10">
+            <input type="submit" class="btn btn-default" value="Submit" />
+        </div>
+    </div>
+
+</form>
+
+
+
+
+

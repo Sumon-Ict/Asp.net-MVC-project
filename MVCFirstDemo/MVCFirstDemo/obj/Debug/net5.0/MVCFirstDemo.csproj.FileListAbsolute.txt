@@ -892,3 +892,19 @@ H:\MVC project\Asp.net-MVC-project\MVCFirstDemo\MVCFirstDemo\obj\Debug\net5.0\MV
 H:\MVC project\Asp.net-MVC-project\MVCFirstDemo\MVCFirstDemo\bin\Debug\net5.0\Autofac.dll
 H:\MVC project\Asp.net-MVC-project\MVCFirstDemo\MVCFirstDemo\bin\Debug\net5.0\Autofac.Extensions.DependencyInjection.dll
 H:\MVC project\Asp.net-MVC-project\MVCFirstDemo\MVCFirstDemo\obj\Debug\net5.0\Razor\Views\Dashboard\DatabaseService.cshtml.g.cs
+H:\MVC project\Asp.net-MVC-project\MVCFirstDemo\MVCFirstDemo\obj\Debug\net5.0\Razor\Views\Shared\CustomPartialViews\_FooterPartial.cshtml.g.cs
+H:\MVC project\Asp.net-MVC-project\MVCFirstDemo\MVCFirstDemo\obj\Debug\net5.0\Razor\Views\Dashboard\FormCreate.cshtml.g.cs
+H:\MVC project\Asp.net-MVC-project\MVCFirstDemo\MVCFirstDemo\obj\Debug\net5.0\Razor\Views\Dashboard\BootstrapLayout.cshtml.g.cs
+H:\MVC project\Asp.net-MVC-project\MVCFirstDemo\MVCFirstDemo\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+H:\MVC project\Asp.net-MVC-project\MVCFirstDemo\MVCFirstDemo\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+H:\MVC project\Asp.net-MVC-project\MVCFirstDemo\MVCFirstDemo\obj\Debug\net5.0\Razor\Areas\Admin\Views\Dashboard\Index.cshtml.g.cs
+H:\MVC project\Asp.net-MVC-project\MVCFirstDemo\MVCFirstDemo\obj\Debug\net5.0\Razor\Areas\Admin\Views\Dashboard\Information.cshtml.g.cs
+H:\MVC project\Asp.net-MVC-project\MVCFirstDemo\MVCFirstDemo\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_adminMenuPartial.cshtml.g.cs
+H:\MVC project\Asp.net-MVC-project\MVCFirstDemo\MVCFirstDemo\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Layout .cshtml.g.cs
+H:\MVC project\Asp.net-MVC-project\MVCFirstDemo\MVCFirstDemo\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Layout2.cshtml.g.cs
+H:\MVC project\Asp.net-MVC-project\MVCFirstDemo\MVCFirstDemo\obj\Debug\net5.0\Razor\Areas\Admin02\Views\Shared\_Layout.cshtml.g.cs
+H:\MVC project\Asp.net-MVC-project\MVCFirstDemo\MVCFirstDemo\obj\Debug\net5.0\Razor\Areas\Admin02\Views\_ViewImports.cshtml.g.cs
+H:\MVC project\Asp.net-MVC-project\MVCFirstDemo\MVCFirstDemo\obj\Debug\net5.0\Razor\Areas\Admin02\Views\_ViewStart.cshtml.g.cs
+H:\MVC project\Asp.net-MVC-project\MVCFirstDemo\MVCFirstDemo\obj\Debug\net5.0\Razor\Areas\Admin02\Views\Home\Index.cshtml.g.cs
+H:\MVC project\Asp.net-MVC-project\MVCFirstDemo\MVCFirstDemo\obj\Debug\net5.0\Razor\Areas\Admin02\Views\Shared\_AdminMenuPartial.cshtml.g.cs
+H:\MVC project\Asp.net-MVC-project\MVCFirstDemo\MVCFirstDemo\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs

@@ -38,5 +38,18 @@ namespace MVCFirstDemo.Controllers
             return View();
 
         }
+        public IActionResult FormCreate()
+        {
+
+            var model = new FormModel();
+
+            return View(model);
+
+        }
+        public IActionResult BootstrapLayout()
+        {
+            return View();
+
+        }
     }
 }

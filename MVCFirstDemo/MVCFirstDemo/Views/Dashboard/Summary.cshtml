@@ -1,15 +1,42 @@
 ﻿@model SummaryModel
 @{
     ViewData["Title"] = "Summary";
-    Layout = "_Layout2";
+    // Layout = "_Layout2";
 
 
 }
+
+
+@section Styles
+{
+    <style>
+        h2 {
+            color: yellow;
+        }
+    </style>
+}
+
+
+
 
 <h1>Summary</h1>
 <h2>Personal Information</h2>
 <h3>@Model.Name</h3>
 <h3>@Model.age</h3>
+
+<input type="text" id="Summarytext" name="sumaryText" value="@Model.Name" />
+
+<a asp-action="Name" asp-controller="Dashboard">@Model.Name</a>
+
+
+@section Scripts
+{
+    <script type="text/javascript">
+        alert("hello world");
+
+    </script>
+}
+
 
 
 
