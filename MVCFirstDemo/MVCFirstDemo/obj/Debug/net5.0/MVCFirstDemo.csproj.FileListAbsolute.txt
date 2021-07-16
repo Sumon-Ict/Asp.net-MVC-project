@@ -908,3 +908,6 @@ H:\MVC project\Asp.net-MVC-project\MVCFirstDemo\MVCFirstDemo\obj\Debug\net5.0\Ra
 H:\MVC project\Asp.net-MVC-project\MVCFirstDemo\MVCFirstDemo\obj\Debug\net5.0\Razor\Areas\Admin02\Views\Home\Index.cshtml.g.cs
 H:\MVC project\Asp.net-MVC-project\MVCFirstDemo\MVCFirstDemo\obj\Debug\net5.0\Razor\Areas\Admin02\Views\Shared\_AdminMenuPartial.cshtml.g.cs
 H:\MVC project\Asp.net-MVC-project\MVCFirstDemo\MVCFirstDemo\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+H:\MVC project\Asp.net-MVC-project\MVCFirstDemo\MVCFirstDemo\obj\Debug\net5.0\Razor\Views\Bootstrap\Layout1.cshtml.g.cs
+H:\MVC project\Asp.net-MVC-project\MVCFirstDemo\MVCFirstDemo\obj\Debug\net5.0\Razor\Views\Bootstrap\Layout2.cshtml.g.cs
+H:\MVC project\Asp.net-MVC-project\MVCFirstDemo\MVCFirstDemo\obj\Debug\net5.0\Razor\Views\Bootstrap\Layout3.cshtml.g.cs

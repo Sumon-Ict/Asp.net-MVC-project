@@ -34,6 +34,8 @@ namespace MVCFirstDemo.Controllers
         {
             var result = _databaseService.Name();
 
+            ViewBag.Name = result;
+
 
             return View();
 
