@@ -15,7 +15,7 @@ namespace MVCFirstDemo.Areas.Admin.Controllers
         }
         public IActionResult Information()
         {
-            ViewData["Name"] = "My name is sumon  and My Home district is Bogura";
+            ViewData["Name"] = "My name is sumon ";
 
             ViewBag.Age = "I am 23 years old";
             return View();
