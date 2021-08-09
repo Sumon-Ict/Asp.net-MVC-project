@@ -1,0 +1,17 @@
+H:\Asp.net code\Asp.net-code-practise-with-devskill\WebApplication1\FirstDemo.Training\bin\Debug\net5.0\FirstDemo.Training.deps.json
+H:\Asp.net code\Asp.net-code-practise-with-devskill\WebApplication1\FirstDemo.Training\bin\Debug\net5.0\FirstDemo.Training.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\WebApplication1\FirstDemo.Training\bin\Debug\net5.0\ref\FirstDemo.Training.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\WebApplication1\FirstDemo.Training\bin\Debug\net5.0\FirstDemo.Training.pdb
+H:\Asp.net code\Asp.net-code-practise-with-devskill\WebApplication1\FirstDemo.Training\obj\Debug\net5.0\FirstDemo.Training.csprojAssemblyReference.cache
+H:\Asp.net code\Asp.net-code-practise-with-devskill\WebApplication1\FirstDemo.Training\obj\Debug\net5.0\FirstDemo.Training.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asp.net code\Asp.net-code-practise-with-devskill\WebApplication1\FirstDemo.Training\obj\Debug\net5.0\FirstDemo.Training.AssemblyInfoInputs.cache
+H:\Asp.net code\Asp.net-code-practise-with-devskill\WebApplication1\FirstDemo.Training\obj\Debug\net5.0\FirstDemo.Training.AssemblyInfo.cs
+H:\Asp.net code\Asp.net-code-practise-with-devskill\WebApplication1\FirstDemo.Training\obj\Debug\net5.0\FirstDemo.Training.csproj.CoreCompileInputs.cache
+H:\Asp.net code\Asp.net-code-practise-with-devskill\WebApplication1\FirstDemo.Training\obj\Debug\net5.0\FirstDemo.Training.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\WebApplication1\FirstDemo.Training\obj\Debug\net5.0\ref\FirstDemo.Training.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\WebApplication1\FirstDemo.Training\obj\Debug\net5.0\FirstDemo.Training.pdb
+H:\Asp.net code\Asp.net-code-practise-with-devskill\WebApplication1\FirstDemo.Training\bin\Debug\net5.0\FirstDemo.Data.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\WebApplication1\FirstDemo.Training\bin\Debug\net5.0\FirstDemo.Data.pdb
+H:\Asp.net code\Asp.net-code-practise-with-devskill\WebApplication1\FirstDemo.Training\obj\Debug\net5.0\FirstDemo.Training.csproj.CopyComplete
+H:\Asp.net code\Asp.net-code-practise-with-devskill\WebApplication1\FirstDemo.Training\bin\Debug\net5.0\FirstDemo.Common.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\WebApplication1\FirstDemo.Training\bin\Debug\net5.0\FirstDemo.Common.pdb

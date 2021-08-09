@@ -1,0 +1,59 @@
+﻿html,
+body,
+ul,
+ol {
+  margin: 0;
+  padding: 0; }
+
+.row {
+  padding: 3px;
+  color: red; }
+
+.col {
+  background-color: yellow;
+  border: 5px solid green;
+  flex-flow: column wrap; }
+
+div {
+  background-color: red; }
+  div button {
+    background-color: green; }
+    div button:hover {
+      background-color: blue; }
+
+.danger {
+  color: red;
+  font-size: 23px;
+  display: inline;
+  padding: 21px;
+  background-color: yellow; }
+
+.mybody {
+  border: 2px solid red; }
+
+body {
+  border: 21px solid yellow; }
+
+.mynotes {
+  color: green;
+  padding: 23px;
+  margin: 12px; }
+
+.box {
+  margin: 23px;
+  padding: 23px;
+  display: block; }
+
+.button-basic, .button-report, .button-submit {
+  border: none;
+  padding: 15px 30px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer; }
+
+.button-report {
+  background-color: red; }
+
+.button-submit {
+  background-color: green;
+  color: white; }

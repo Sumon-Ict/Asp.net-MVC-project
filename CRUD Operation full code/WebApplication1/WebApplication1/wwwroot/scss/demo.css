@@ -1,0 +1,27 @@
+﻿div {
+  background-color: red; }
+  div button {
+    background-color: green; }
+    div button:hover {
+      background-color: blue; }
+
+nav ul {
+  margin: 12px;
+  padding: 7px; }
+
+nav li {
+  display: inline; }
+
+nav a {
+  display: block;
+  padding: 5px;
+  text-decoration: none; }
+
+body {
+  font-family: Arial;
+  font-size: 12px;
+  font-weight: bold;
+  text-align: left;
+  text-transform: capitalize;
+  text-decoration: dotted;
+  text-overflow: ellipsis; }

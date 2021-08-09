@@ -1,0 +1,12 @@
+H:\Asp.net code\Asp.net-code-practise-with-devskill\WebApplication1\FirstDemo.Common\bin\Debug\net5.0\FirstDemo.Common.deps.json
+H:\Asp.net code\Asp.net-code-practise-with-devskill\WebApplication1\FirstDemo.Common\bin\Debug\net5.0\FirstDemo.Common.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\WebApplication1\FirstDemo.Common\bin\Debug\net5.0\ref\FirstDemo.Common.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\WebApplication1\FirstDemo.Common\bin\Debug\net5.0\FirstDemo.Common.pdb
+H:\Asp.net code\Asp.net-code-practise-with-devskill\WebApplication1\FirstDemo.Common\obj\Debug\net5.0\FirstDemo.Common.csprojAssemblyReference.cache
+H:\Asp.net code\Asp.net-code-practise-with-devskill\WebApplication1\FirstDemo.Common\obj\Debug\net5.0\FirstDemo.Common.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asp.net code\Asp.net-code-practise-with-devskill\WebApplication1\FirstDemo.Common\obj\Debug\net5.0\FirstDemo.Common.AssemblyInfoInputs.cache
+H:\Asp.net code\Asp.net-code-practise-with-devskill\WebApplication1\FirstDemo.Common\obj\Debug\net5.0\FirstDemo.Common.AssemblyInfo.cs
+H:\Asp.net code\Asp.net-code-practise-with-devskill\WebApplication1\FirstDemo.Common\obj\Debug\net5.0\FirstDemo.Common.csproj.CoreCompileInputs.cache
+H:\Asp.net code\Asp.net-code-practise-with-devskill\WebApplication1\FirstDemo.Common\obj\Debug\net5.0\FirstDemo.Common.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\WebApplication1\FirstDemo.Common\obj\Debug\net5.0\ref\FirstDemo.Common.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\WebApplication1\FirstDemo.Common\obj\Debug\net5.0\FirstDemo.Common.pdb
