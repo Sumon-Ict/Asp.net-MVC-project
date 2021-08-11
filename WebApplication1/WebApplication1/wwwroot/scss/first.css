@@ -1,0 +1,15 @@
+﻿html,
+body,
+ul,
+ol {
+  margin: 0;
+  padding: 0; }
+
+.row {
+  padding: 3px;
+  color: red; }
+
+.col {
+  background-color: yellow;
+  border: 5px solid green;
+  flex-flow: column wrap; }

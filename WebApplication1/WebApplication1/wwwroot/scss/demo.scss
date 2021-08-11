@@ -1,0 +1,51 @@
+﻿$btnColor: blue;
+
+div {
+    background-color: red;
+
+    button {
+        background-color: green;
+
+        &:hover {
+            background-color: blue;
+        }
+    }
+}
+
+
+
+
+nav{
+    ul{
+        margin:12px;
+        padding:7px;
+
+    }
+    li{
+        display:inline;
+    }
+    a{
+        display:block;
+        padding:5px;
+        text-decoration:none;
+    }
+
+
+
+    }
+
+
+  body  {
+    font:{
+        family:Arial;
+        size:12px;
+        weight:bold;
+    }
+    text:{
+        align:left;
+        transform:capitalize;
+        decoration:dotted;
+        overflow:ellipsis;
+    }
+
+}

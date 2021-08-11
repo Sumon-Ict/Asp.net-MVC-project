@@ -1,0 +1,26 @@
+2021-08-10 00:22:55.396 +06:00 [INF] Application Starting up
+2021-08-10 11:02:30.510 +06:00 [INF] Application Starting up
+2021-08-10 11:04:13.226 +06:00 [INF] Application Starting up
+2021-08-10 11:16:08.039 +06:00 [INF] Application Starting up
+2021-08-10 11:39:28.821 +06:00 [INF] Application Starting up
+2021-08-10 11:40:16.800 +06:00 [ERR] Create Course Failed
+AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> Course
+System.Object -> FirstDemo.Training.BusinessObjects.Course
+   at lambda_method671(Closure , Object , Course , ResolutionContext )
+   at WebApplication1.Areas.Admin.Models.CreateCourseModel.CreateCourse() in H:\Asp.net code\Asp.net-code-practise-with-devskill\WebApplication1\WebApplication1\Areas\Admin\Models\CreateCourseModel.cs:line 36
+   at WebApplication1.Areas.Admin.Controllers.CourseController.Create(CreateCourseModel model) in H:\Asp.net code\Asp.net-code-practise-with-devskill\WebApplication1\WebApplication1\Areas\Admin\Controllers\CourseController.cs:line 72
+2021-08-10 11:40:49.235 +06:00 [ERR] Create Course Failed
+AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> Course
+System.Object -> FirstDemo.Training.BusinessObjects.Course
+   at lambda_method671(Closure , Object , Course , ResolutionContext )
+   at WebApplication1.Areas.Admin.Models.CreateCourseModel.CreateCourse() in H:\Asp.net code\Asp.net-code-practise-with-devskill\WebApplication1\WebApplication1\Areas\Admin\Models\CreateCourseModel.cs:line 36
+   at WebApplication1.Areas.Admin.Controllers.CourseController.Create(CreateCourseModel model) in H:\Asp.net code\Asp.net-code-practise-with-devskill\WebApplication1\WebApplication1\Areas\Admin\Controllers\CourseController.cs:line 72
+2021-08-10 11:43:47.238 +06:00 [INF] Application Starting up
+2021-08-10 12:26:15.038 +06:00 [INF] Application Starting up
+2021-08-10 14:47:21.078 +06:00 [INF] Application Starting up

@@ -1,0 +1,34 @@
+2021-08-08 12:04:27.440 +06:00 [INF] Application Starting up
+2021-08-08 12:10:54.347 +06:00 [INF] Application Starting up
+2021-08-08 17:41:00.804 +06:00 [INF] Application Starting up
+2021-08-08 23:45:16.648 +06:00 [INF] Application Starting up
+2021-08-08 23:46:45.142 +06:00 [ERR] Create Course Failed
+System.InvalidOperationException: start date should be atleast 30 days ahead
+   at FirstDemo.Training.Services.CourseService.CreateCourse(Course course) in H:\Asp.net code\Asp.net-code-practise-with-devskill\WebApplication1\FirstDemo.Training\Services\CourseService.cs:line 57
+   at WebApplication1.Areas.Admin.Models.CreateCourseModel.CreateCourse() in H:\Asp.net code\Asp.net-code-practise-with-devskill\WebApplication1\WebApplication1\Areas\Admin\Models\CreateCourseModel.cs:line 34
+   at WebApplication1.Areas.Admin.Controllers.CourseController.Create(CreateCourseModel model) in H:\Asp.net code\Asp.net-code-practise-with-devskill\WebApplication1\WebApplication1\Areas\Admin\Controllers\CourseController.cs:line 73
+2021-08-08 23:50:09.147 +06:00 [ERR] Create Course Failed
+System.InvalidOperationException: start date should be atleast 30 days ahead
+   at FirstDemo.Training.Services.CourseService.CreateCourse(Course course) in H:\Asp.net code\Asp.net-code-practise-with-devskill\WebApplication1\FirstDemo.Training\Services\CourseService.cs:line 57
+   at WebApplication1.Areas.Admin.Models.CreateCourseModel.CreateCourse() in H:\Asp.net code\Asp.net-code-practise-with-devskill\WebApplication1\WebApplication1\Areas\Admin\Models\CreateCourseModel.cs:line 34
+   at WebApplication1.Areas.Admin.Controllers.CourseController.Create(CreateCourseModel model) in H:\Asp.net code\Asp.net-code-practise-with-devskill\WebApplication1\WebApplication1\Areas\Admin\Controllers\CourseController.cs:line 73
+2021-08-08 23:51:08.077 +06:00 [ERR] Create Course Failed
+FirstDemo.Training.Exceptions.DuplicateTitleException:  Course  Title already exits
+   at FirstDemo.Training.Services.CourseService.CreateCourse(Course course) in H:\Asp.net code\Asp.net-code-practise-with-devskill\WebApplication1\FirstDemo.Training\Services\CourseService.cs:line 54
+   at WebApplication1.Areas.Admin.Models.CreateCourseModel.CreateCourse() in H:\Asp.net code\Asp.net-code-practise-with-devskill\WebApplication1\WebApplication1\Areas\Admin\Models\CreateCourseModel.cs:line 34
+   at WebApplication1.Areas.Admin.Controllers.CourseController.Create(CreateCourseModel model) in H:\Asp.net code\Asp.net-code-practise-with-devskill\WebApplication1\WebApplication1\Areas\Admin\Controllers\CourseController.cs:line 73
+2021-08-08 23:52:45.163 +06:00 [ERR] Create Course Failed
+System.InvalidOperationException: start date should be atleast 30 days ahead
+   at FirstDemo.Training.Services.CourseService.CreateCourse(Course course) in H:\Asp.net code\Asp.net-code-practise-with-devskill\WebApplication1\FirstDemo.Training\Services\CourseService.cs:line 57
+   at WebApplication1.Areas.Admin.Models.CreateCourseModel.CreateCourse() in H:\Asp.net code\Asp.net-code-practise-with-devskill\WebApplication1\WebApplication1\Areas\Admin\Models\CreateCourseModel.cs:line 34
+   at WebApplication1.Areas.Admin.Controllers.CourseController.Create(CreateCourseModel model) in H:\Asp.net code\Asp.net-code-practise-with-devskill\WebApplication1\WebApplication1\Areas\Admin\Controllers\CourseController.cs:line 73
+2021-08-08 23:52:56.590 +06:00 [ERR] Create Course Failed
+System.InvalidOperationException: start date should be atleast 30 days ahead
+   at FirstDemo.Training.Services.CourseService.CreateCourse(Course course) in H:\Asp.net code\Asp.net-code-practise-with-devskill\WebApplication1\FirstDemo.Training\Services\CourseService.cs:line 57
+   at WebApplication1.Areas.Admin.Models.CreateCourseModel.CreateCourse() in H:\Asp.net code\Asp.net-code-practise-with-devskill\WebApplication1\WebApplication1\Areas\Admin\Models\CreateCourseModel.cs:line 34
+   at WebApplication1.Areas.Admin.Controllers.CourseController.Create(CreateCourseModel model) in H:\Asp.net code\Asp.net-code-practise-with-devskill\WebApplication1\WebApplication1\Areas\Admin\Controllers\CourseController.cs:line 73
+2021-08-08 23:53:04.058 +06:00 [ERR] Create Course Failed
+System.InvalidOperationException: start date should be atleast 30 days ahead
+   at FirstDemo.Training.Services.CourseService.CreateCourse(Course course) in H:\Asp.net code\Asp.net-code-practise-with-devskill\WebApplication1\FirstDemo.Training\Services\CourseService.cs:line 57
+   at WebApplication1.Areas.Admin.Models.CreateCourseModel.CreateCourse() in H:\Asp.net code\Asp.net-code-practise-with-devskill\WebApplication1\WebApplication1\Areas\Admin\Models\CreateCourseModel.cs:line 34
+   at WebApplication1.Areas.Admin.Controllers.CourseController.Create(CreateCourseModel model) in H:\Asp.net code\Asp.net-code-practise-with-devskill\WebApplication1\WebApplication1\Areas\Admin\Controllers\CourseController.cs:line 73
