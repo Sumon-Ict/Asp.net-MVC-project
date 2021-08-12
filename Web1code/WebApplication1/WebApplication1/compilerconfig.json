@@ -1,0 +1,30 @@
+﻿[
+  {
+    "outputFile": "wwwroot/demo.css",
+    "inputFile": "wwwroot/demo.scss"
+  },
+  {
+    "outputFile": "wwwroot/demo2.css",
+    "inputFile": "wwwroot/demo2.scss"
+  },
+  {
+    "outputFile": "wwwroot/scss/demo.css",
+    "inputFile": "wwwroot/scss/demo.scss"
+  },
+  {
+    "outputFile": "wwwroot/ts/demo.es5.js",
+    "inputFile": "wwwroot/ts/demo.js"
+  },
+  {
+    "outputFile": "wwwroot/scss/site.css",
+    "inputFile": "wwwroot/scss/site.scss"
+  },
+  {
+    "outputFile": "wwwroot/scss/site2.css",
+    "inputFile": "wwwroot/scss/site2.scss"
+  },
+  {
+    "outputFile": "wwwroot/scss/first.css",
+    "inputFile": "wwwroot/scss/first.scss"
+  }
+]

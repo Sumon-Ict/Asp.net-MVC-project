@@ -1,0 +1,91 @@
+﻿
+@import "first.scss";    //include  the first.scss file 
+
+$btnColor: blue;
+
+div {
+    background-color: red;
+
+    button {
+        background-color: green;
+
+        &:hover {
+            background-color: blue;
+        }
+    }
+}
+   //mixin acts as a function 
+@mixin important_text{
+    color:red;
+    font-size:23px;
+    display:inline;
+}
+
+.danger{
+    @include important_text;
+
+    padding:21px;
+
+    background-color:yellow;
+}
+
+@mixin bordered($color,$width)   //function declaration with two parameter
+{
+    border:$width solid $color;
+}
+
+.mybody{
+    @include bordered(red,2px);   //calling method with parameter 
+
+}
+
+body{
+    @include bordered(yellow,21px);  //calling method 
+}
+
+
+@mixin borderWithdefaultvalue($color:green,$padding:6px,$margin:12px)
+{
+    color:$color;
+    padding:$padding;
+    margin:$margin;
+}
+
+.mynotes{
+    @include borderWithdefaultvalue($padding:23px);   //here padding is changing 
+
+}
+
+@mixin boxproperty($property)    
+{
+    margin:$property;
+    padding:$property;
+    
+}
+
+.box{
+    @include boxproperty(23px);
+
+    display:block;
+}
+
+
+  //uses extend directive
+.button-basic {
+    border: none;
+    padding: 15px 30px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.button-report {
+    @extend .button-basic;
+    background-color: red;
+}
+
+.button-submit {
+    @extend .button-basic;
+    background-color: green;
+    color: white;
+}
