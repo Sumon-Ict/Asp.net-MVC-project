@@ -83,7 +83,7 @@ namespace WebApplication1.Areas.Admin.Controllers
         {
             var model = new EditCourseModel();
             model.LoadModelData(id);
-            return View();
+            return View(model);
 
         }
         [HttpPost, ValidateAntiForgeryToken]

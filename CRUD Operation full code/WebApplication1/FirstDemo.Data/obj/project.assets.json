@@ -5814,11 +5814,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Asp.net code\\Asp.net-code-practise-with-devskill\\WebApplication1\\FirstDemo.Data\\FirstDemo.Data.csproj",
+      "projectUniqueName": "H:\\MVC project\\Asp.net-MVC-project\\CRUD Operation full code\\WebApplication1\\FirstDemo.Data\\FirstDemo.Data.csproj",
       "projectName": "FirstDemo.Data",
-      "projectPath": "H:\\Asp.net code\\Asp.net-code-practise-with-devskill\\WebApplication1\\FirstDemo.Data\\FirstDemo.Data.csproj",
+      "projectPath": "H:\\MVC project\\Asp.net-MVC-project\\CRUD Operation full code\\WebApplication1\\FirstDemo.Data\\FirstDemo.Data.csproj",
       "packagesPath": "C:\\Users\\Md Sumon Mia\\.nuget\\packages\\",
-      "outputPath": "H:\\Asp.net code\\Asp.net-code-practise-with-devskill\\WebApplication1\\FirstDemo.Data\\obj\\",
+      "outputPath": "H:\\MVC project\\Asp.net-MVC-project\\CRUD Operation full code\\WebApplication1\\FirstDemo.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Md Sumon Mia\\AppData\\Roaming\\NuGet\\NuGet.Config",
