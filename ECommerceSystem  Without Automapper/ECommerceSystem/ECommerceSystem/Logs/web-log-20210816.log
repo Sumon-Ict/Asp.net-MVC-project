@@ -1,0 +1,43 @@
+2021-08-16 10:07:49.971 +06:00 [INF] Application Starting up
+2021-08-16 10:09:33.377 +06:00 [INF] Application Starting up
+2021-08-16 10:11:20.632 +06:00 [ERR] An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at ECommerceSystem.Areas.Admin.Models.EditProductModel.LoadModelData(Int32 id) in H:\Asp.net code\Asp.net-code-practise-with-devskill\ECommerceSystem\ECommerceSystem\Areas\Admin\Models\EditProductModel.cs:line 44
+   at ECommerceSystem.Areas.Admin.Controllers.ProductController.Edit(Int32 id) in H:\Asp.net code\Asp.net-code-practise-with-devskill\ECommerceSystem\ECommerceSystem\Areas\Admin\Controllers\ProductController.cs:line 67
+   at lambda_method566(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.MigrationsEndPointMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-08-16 10:32:34.704 +06:00 [INF] Application Starting up
+2021-08-16 10:34:14.605 +06:00 [INF] Application Starting up
+2021-08-16 10:54:27.267 +06:00 [INF] Application Starting up
+2021-08-16 11:13:49.070 +06:00 [INF] Application Starting up
+2021-08-16 12:26:04.929 +06:00 [INF] Application Starting up
+2021-08-16 12:45:04.034 +06:00 [INF] Application Starting up
+2021-08-16 12:48:12.704 +06:00 [ERR] Create product  Failed
+ECommerceSystem.Training.Exceptions.DuplicateNameException:  product  name already exits
+   at ECommerceSystem.Training.Services.ProductService.CreateProduct(Product product) in H:\Asp.net code\Asp.net-code-practise-with-devskill\ECommerceSystem\ECommerceSystem.Training\Services\ProductService.cs:line 30
+   at ECommerceSystem.Areas.Admin.Models.CreateProductModel.CreateProduct() in H:\Asp.net code\Asp.net-code-practise-with-devskill\ECommerceSystem\ECommerceSystem\Areas\Admin\Models\CreateProductModel.cs:line 38
+   at ECommerceSystem.Areas.Admin.Controllers.ProductController.Create(CreateProductModel model) in H:\Asp.net code\Asp.net-code-practise-with-devskill\ECommerceSystem\ECommerceSystem\Areas\Admin\Controllers\ProductController.cs:line 54
+2021-08-16 14:34:45.912 +06:00 [INF] Application Starting up
+2021-08-16 14:39:07.591 +06:00 [INF] Application Starting up
+2021-08-16 14:43:25.272 +06:00 [INF] Application Starting up
