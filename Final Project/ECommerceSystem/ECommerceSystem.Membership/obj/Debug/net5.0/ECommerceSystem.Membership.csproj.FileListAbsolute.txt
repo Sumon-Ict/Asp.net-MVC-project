@@ -1,0 +1,12 @@
+H:\Asp.net code\Asp.net-code-practise-with-devskill\ECommerceSystem\ECommerceSystem.Membership\bin\Debug\net5.0\ECommerceSystem.Membership.deps.json
+H:\Asp.net code\Asp.net-code-practise-with-devskill\ECommerceSystem\ECommerceSystem.Membership\bin\Debug\net5.0\ECommerceSystem.Membership.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\ECommerceSystem\ECommerceSystem.Membership\bin\Debug\net5.0\ref\ECommerceSystem.Membership.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\ECommerceSystem\ECommerceSystem.Membership\bin\Debug\net5.0\ECommerceSystem.Membership.pdb
+H:\Asp.net code\Asp.net-code-practise-with-devskill\ECommerceSystem\ECommerceSystem.Membership\obj\Debug\net5.0\ECommerceSystem.Membership.csprojAssemblyReference.cache
+H:\Asp.net code\Asp.net-code-practise-with-devskill\ECommerceSystem\ECommerceSystem.Membership\obj\Debug\net5.0\ECommerceSystem.Membership.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asp.net code\Asp.net-code-practise-with-devskill\ECommerceSystem\ECommerceSystem.Membership\obj\Debug\net5.0\ECommerceSystem.Membership.AssemblyInfoInputs.cache
+H:\Asp.net code\Asp.net-code-practise-with-devskill\ECommerceSystem\ECommerceSystem.Membership\obj\Debug\net5.0\ECommerceSystem.Membership.AssemblyInfo.cs
+H:\Asp.net code\Asp.net-code-practise-with-devskill\ECommerceSystem\ECommerceSystem.Membership\obj\Debug\net5.0\ECommerceSystem.Membership.csproj.CoreCompileInputs.cache
+H:\Asp.net code\Asp.net-code-practise-with-devskill\ECommerceSystem\ECommerceSystem.Membership\obj\Debug\net5.0\ECommerceSystem.Membership.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\ECommerceSystem\ECommerceSystem.Membership\obj\Debug\net5.0\ref\ECommerceSystem.Membership.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\ECommerceSystem\ECommerceSystem.Membership\obj\Debug\net5.0\ECommerceSystem.Membership.pdb

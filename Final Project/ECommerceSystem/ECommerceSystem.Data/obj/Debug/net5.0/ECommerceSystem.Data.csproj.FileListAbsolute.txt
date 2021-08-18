@@ -1,0 +1,12 @@
+H:\Asp.net code\Asp.net-code-practise-with-devskill\ECommerceSystem\ECommerceSystem.Data\bin\Debug\net5.0\ECommerceSystem.Data.deps.json
+H:\Asp.net code\Asp.net-code-practise-with-devskill\ECommerceSystem\ECommerceSystem.Data\bin\Debug\net5.0\ECommerceSystem.Data.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\ECommerceSystem\ECommerceSystem.Data\bin\Debug\net5.0\ref\ECommerceSystem.Data.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\ECommerceSystem\ECommerceSystem.Data\bin\Debug\net5.0\ECommerceSystem.Data.pdb
+H:\Asp.net code\Asp.net-code-practise-with-devskill\ECommerceSystem\ECommerceSystem.Data\obj\Debug\net5.0\ECommerceSystem.Data.csprojAssemblyReference.cache
+H:\Asp.net code\Asp.net-code-practise-with-devskill\ECommerceSystem\ECommerceSystem.Data\obj\Debug\net5.0\ECommerceSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asp.net code\Asp.net-code-practise-with-devskill\ECommerceSystem\ECommerceSystem.Data\obj\Debug\net5.0\ECommerceSystem.Data.AssemblyInfoInputs.cache
+H:\Asp.net code\Asp.net-code-practise-with-devskill\ECommerceSystem\ECommerceSystem.Data\obj\Debug\net5.0\ECommerceSystem.Data.AssemblyInfo.cs
+H:\Asp.net code\Asp.net-code-practise-with-devskill\ECommerceSystem\ECommerceSystem.Data\obj\Debug\net5.0\ECommerceSystem.Data.csproj.CoreCompileInputs.cache
+H:\Asp.net code\Asp.net-code-practise-with-devskill\ECommerceSystem\ECommerceSystem.Data\obj\Debug\net5.0\ECommerceSystem.Data.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\ECommerceSystem\ECommerceSystem.Data\obj\Debug\net5.0\ref\ECommerceSystem.Data.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\ECommerceSystem\ECommerceSystem.Data\obj\Debug\net5.0\ECommerceSystem.Data.pdb
