@@ -1,0 +1,15 @@
+H:\Asp.net code\Asp.net-code-practise-with-devskill\ECommerceSystem\ECommerceSystem.Training\bin\Debug\net5.0\ECommerceSystem.Training.deps.json
+H:\Asp.net code\Asp.net-code-practise-with-devskill\ECommerceSystem\ECommerceSystem.Training\bin\Debug\net5.0\ECommerceSystem.Training.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\ECommerceSystem\ECommerceSystem.Training\bin\Debug\net5.0\ref\ECommerceSystem.Training.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\ECommerceSystem\ECommerceSystem.Training\bin\Debug\net5.0\ECommerceSystem.Training.pdb
+H:\Asp.net code\Asp.net-code-practise-with-devskill\ECommerceSystem\ECommerceSystem.Training\bin\Debug\net5.0\ECommerceSystem.Data.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\ECommerceSystem\ECommerceSystem.Training\bin\Debug\net5.0\ECommerceSystem.Data.pdb
+H:\Asp.net code\Asp.net-code-practise-with-devskill\ECommerceSystem\ECommerceSystem.Training\obj\Debug\net5.0\ECommerceSystem.Training.csprojAssemblyReference.cache
+H:\Asp.net code\Asp.net-code-practise-with-devskill\ECommerceSystem\ECommerceSystem.Training\obj\Debug\net5.0\ECommerceSystem.Training.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asp.net code\Asp.net-code-practise-with-devskill\ECommerceSystem\ECommerceSystem.Training\obj\Debug\net5.0\ECommerceSystem.Training.AssemblyInfoInputs.cache
+H:\Asp.net code\Asp.net-code-practise-with-devskill\ECommerceSystem\ECommerceSystem.Training\obj\Debug\net5.0\ECommerceSystem.Training.AssemblyInfo.cs
+H:\Asp.net code\Asp.net-code-practise-with-devskill\ECommerceSystem\ECommerceSystem.Training\obj\Debug\net5.0\ECommerceSystem.Training.csproj.CoreCompileInputs.cache
+H:\Asp.net code\Asp.net-code-practise-with-devskill\ECommerceSystem\ECommerceSystem.Training\obj\Debug\net5.0\ECommerceSystem.Training.csproj.CopyComplete
+H:\Asp.net code\Asp.net-code-practise-with-devskill\ECommerceSystem\ECommerceSystem.Training\obj\Debug\net5.0\ECommerceSystem.Training.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\ECommerceSystem\ECommerceSystem.Training\obj\Debug\net5.0\ref\ECommerceSystem.Training.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\ECommerceSystem\ECommerceSystem.Training\obj\Debug\net5.0\ECommerceSystem.Training.pdb
