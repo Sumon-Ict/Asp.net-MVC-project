@@ -1,0 +1,91 @@
+2021-08-19 16:41:16.202 +06:00 [INF] Application Starting up
+2021-08-19 17:23:51.379 +06:00 [INF] Application Starting up
+2021-08-19 17:23:57.386 +06:00 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.AspNetCore.Routing.Matching.AmbiguousMatchException: The request matched multiple endpoints. Matches: 
+
+TicketBookingSystem.Controllers.HomeController.Index (TicketBookingSystem)
+TicketBookingSystem.Areas.Admin.Controllers.HomeController.Index (TicketBookingSystem)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ReportAmbiguity(CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ProcessFinalCandidates(HttpContext httpContext, CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.Select(HttpContext httpContext, CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcher.MatchAsync(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.Matching.DataSourceDependentMatcher.MatchAsync(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.MigrationsEndPointMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-08-19 17:23:59.884 +06:00 [ERR] An exception occurred while calculating the database error page content. Skipping display of the database error page.
+System.InvalidOperationException: StatusCode cannot be set because the response has already started.
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContext.ThrowResponseAlreadyStartedException(String name)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContext.set_StatusCode(Int32 value)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContext.Microsoft.AspNetCore.Http.Features.IHttpResponseFeature.set_StatusCode(Int32 value)
+   at Microsoft.AspNetCore.Http.DefaultHttpResponse.set_StatusCode(Int32 value)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.Views.DatabaseErrorPage.ExecuteAsync()
+   at Microsoft.Extensions.RazorViews.BaseView.ExecuteAsync(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.DatabaseDeveloperPageExceptionFilter.HandleExceptionAsync(ErrorContext errorContext, Func`2 next)
+2021-08-19 17:26:12.710 +06:00 [INF] Application Starting up
+2021-08-19 17:26:17.483 +06:00 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.AspNetCore.Routing.Matching.AmbiguousMatchException: The request matched multiple endpoints. Matches: 
+
+TicketBookingSystem.Controllers.HomeController.Index (TicketBookingSystem)
+TicketBookingSystem.Areas.Admin.Controllers.HomeController.Index (TicketBookingSystem)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ReportAmbiguity(CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ProcessFinalCandidates(HttpContext httpContext, CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.Select(HttpContext httpContext, CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcher.MatchAsync(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.Matching.DataSourceDependentMatcher.MatchAsync(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.MigrationsEndPointMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-08-19 17:26:19.341 +06:00 [ERR] An exception occurred while calculating the database error page content. Skipping display of the database error page.
+System.InvalidOperationException: StatusCode cannot be set because the response has already started.
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContext.ThrowResponseAlreadyStartedException(String name)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContext.set_StatusCode(Int32 value)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContext.Microsoft.AspNetCore.Http.Features.IHttpResponseFeature.set_StatusCode(Int32 value)
+   at Microsoft.AspNetCore.Http.DefaultHttpResponse.set_StatusCode(Int32 value)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.Views.DatabaseErrorPage.ExecuteAsync()
+   at Microsoft.Extensions.RazorViews.BaseView.ExecuteAsync(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.DatabaseDeveloperPageExceptionFilter.HandleExceptionAsync(ErrorContext errorContext, Func`2 next)
+2021-08-19 17:30:02.341 +06:00 [INF] Application Starting up
+2021-08-19 17:34:09.002 +06:00 [INF] Application Starting up
+2021-08-19 17:34:31.569 +06:00 [ERR] The view 'Index' was not found. Searched locations: ["/Views/Customer/Index.cshtml","/Views/Shared/Index.cshtml","/Pages/Shared/Index.cshtml"]
+2021-08-19 17:34:31.627 +06:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The view 'Index' was not found. The following locations were searched:
+/Views/Customer/Index.cshtml
+/Views/Shared/Index.cshtml
+/Pages/Shared/Index.cshtml
+   at Microsoft.AspNetCore.Mvc.ViewEngines.ViewEngineResult.EnsureSuccessful(IEnumerable`1 originalLocations)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.MigrationsEndPointMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-08-19 17:34:33.283 +06:00 [ERR] An exception occurred while calculating the database error page content. Skipping display of the database error page.
+System.InvalidOperationException: StatusCode cannot be set because the response has already started.
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContext.ThrowResponseAlreadyStartedException(String name)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContext.set_StatusCode(Int32 value)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContext.Microsoft.AspNetCore.Http.Features.IHttpResponseFeature.set_StatusCode(Int32 value)
+   at Microsoft.AspNetCore.Http.DefaultHttpResponse.set_StatusCode(Int32 value)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.Views.DatabaseErrorPage.ExecuteAsync()
+   at Microsoft.Extensions.RazorViews.BaseView.ExecuteAsync(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.DatabaseDeveloperPageExceptionFilter.HandleExceptionAsync(ErrorContext errorContext, Func`2 next)
+2021-08-19 17:39:02.242 +06:00 [INF] Application Starting up
+2021-08-19 17:42:00.923 +06:00 [INF] Application Starting up

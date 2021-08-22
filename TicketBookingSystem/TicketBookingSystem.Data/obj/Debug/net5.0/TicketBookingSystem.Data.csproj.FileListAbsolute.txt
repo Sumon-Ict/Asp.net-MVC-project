@@ -1,0 +1,12 @@
+H:\Asp.net code\Asp.net-code-practise-with-devskill\TicketBookingSystem\TicketBookingSystem.Data\bin\Debug\net5.0\TicketBookingSystem.Data.deps.json
+H:\Asp.net code\Asp.net-code-practise-with-devskill\TicketBookingSystem\TicketBookingSystem.Data\bin\Debug\net5.0\TicketBookingSystem.Data.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\TicketBookingSystem\TicketBookingSystem.Data\bin\Debug\net5.0\ref\TicketBookingSystem.Data.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\TicketBookingSystem\TicketBookingSystem.Data\bin\Debug\net5.0\TicketBookingSystem.Data.pdb
+H:\Asp.net code\Asp.net-code-practise-with-devskill\TicketBookingSystem\TicketBookingSystem.Data\obj\Debug\net5.0\TicketBookingSystem.Data.csprojAssemblyReference.cache
+H:\Asp.net code\Asp.net-code-practise-with-devskill\TicketBookingSystem\TicketBookingSystem.Data\obj\Debug\net5.0\TicketBookingSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asp.net code\Asp.net-code-practise-with-devskill\TicketBookingSystem\TicketBookingSystem.Data\obj\Debug\net5.0\TicketBookingSystem.Data.AssemblyInfoInputs.cache
+H:\Asp.net code\Asp.net-code-practise-with-devskill\TicketBookingSystem\TicketBookingSystem.Data\obj\Debug\net5.0\TicketBookingSystem.Data.AssemblyInfo.cs
+H:\Asp.net code\Asp.net-code-practise-with-devskill\TicketBookingSystem\TicketBookingSystem.Data\obj\Debug\net5.0\TicketBookingSystem.Data.csproj.CoreCompileInputs.cache
+H:\Asp.net code\Asp.net-code-practise-with-devskill\TicketBookingSystem\TicketBookingSystem.Data\obj\Debug\net5.0\TicketBookingSystem.Data.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\TicketBookingSystem\TicketBookingSystem.Data\obj\Debug\net5.0\ref\TicketBookingSystem.Data.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\TicketBookingSystem\TicketBookingSystem.Data\obj\Debug\net5.0\TicketBookingSystem.Data.pdb
