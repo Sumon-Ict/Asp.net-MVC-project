@@ -1,0 +1,12 @@
+H:\Asp.net code\Asp.net-code-practise-with-devskill\InventorySystem\InventorySystem.Data\bin\Debug\net5.0\InventorySystem.Data.deps.json
+H:\Asp.net code\Asp.net-code-practise-with-devskill\InventorySystem\InventorySystem.Data\bin\Debug\net5.0\InventorySystem.Data.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\InventorySystem\InventorySystem.Data\bin\Debug\net5.0\ref\InventorySystem.Data.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\InventorySystem\InventorySystem.Data\bin\Debug\net5.0\InventorySystem.Data.pdb
+H:\Asp.net code\Asp.net-code-practise-with-devskill\InventorySystem\InventorySystem.Data\obj\Debug\net5.0\InventorySystem.Data.csprojAssemblyReference.cache
+H:\Asp.net code\Asp.net-code-practise-with-devskill\InventorySystem\InventorySystem.Data\obj\Debug\net5.0\InventorySystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asp.net code\Asp.net-code-practise-with-devskill\InventorySystem\InventorySystem.Data\obj\Debug\net5.0\InventorySystem.Data.AssemblyInfoInputs.cache
+H:\Asp.net code\Asp.net-code-practise-with-devskill\InventorySystem\InventorySystem.Data\obj\Debug\net5.0\InventorySystem.Data.AssemblyInfo.cs
+H:\Asp.net code\Asp.net-code-practise-with-devskill\InventorySystem\InventorySystem.Data\obj\Debug\net5.0\InventorySystem.Data.csproj.CoreCompileInputs.cache
+H:\Asp.net code\Asp.net-code-practise-with-devskill\InventorySystem\InventorySystem.Data\obj\Debug\net5.0\InventorySystem.Data.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\InventorySystem\InventorySystem.Data\obj\Debug\net5.0\ref\InventorySystem.Data.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\InventorySystem\InventorySystem.Data\obj\Debug\net5.0\InventorySystem.Data.pdb

@@ -1,0 +1,15 @@
+H:\Asp.net code\Asp.net-code-practise-with-devskill\InventorySystem\InventorySystem.Training\bin\Debug\net5.0\InventorySystem.Training.deps.json
+H:\Asp.net code\Asp.net-code-practise-with-devskill\InventorySystem\InventorySystem.Training\bin\Debug\net5.0\InventorySystem.Training.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\InventorySystem\InventorySystem.Training\bin\Debug\net5.0\ref\InventorySystem.Training.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\InventorySystem\InventorySystem.Training\bin\Debug\net5.0\InventorySystem.Training.pdb
+H:\Asp.net code\Asp.net-code-practise-with-devskill\InventorySystem\InventorySystem.Training\bin\Debug\net5.0\InventorySystem.Data.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\InventorySystem\InventorySystem.Training\bin\Debug\net5.0\InventorySystem.Data.pdb
+H:\Asp.net code\Asp.net-code-practise-with-devskill\InventorySystem\InventorySystem.Training\obj\Debug\net5.0\InventorySystem.Training.csprojAssemblyReference.cache
+H:\Asp.net code\Asp.net-code-practise-with-devskill\InventorySystem\InventorySystem.Training\obj\Debug\net5.0\InventorySystem.Training.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asp.net code\Asp.net-code-practise-with-devskill\InventorySystem\InventorySystem.Training\obj\Debug\net5.0\InventorySystem.Training.AssemblyInfoInputs.cache
+H:\Asp.net code\Asp.net-code-practise-with-devskill\InventorySystem\InventorySystem.Training\obj\Debug\net5.0\InventorySystem.Training.AssemblyInfo.cs
+H:\Asp.net code\Asp.net-code-practise-with-devskill\InventorySystem\InventorySystem.Training\obj\Debug\net5.0\InventorySystem.Training.csproj.CoreCompileInputs.cache
+H:\Asp.net code\Asp.net-code-practise-with-devskill\InventorySystem\InventorySystem.Training\obj\Debug\net5.0\InventorySystem.Training.csproj.CopyComplete
+H:\Asp.net code\Asp.net-code-practise-with-devskill\InventorySystem\InventorySystem.Training\obj\Debug\net5.0\InventorySystem.Training.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\InventorySystem\InventorySystem.Training\obj\Debug\net5.0\ref\InventorySystem.Training.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\InventorySystem\InventorySystem.Training\obj\Debug\net5.0\InventorySystem.Training.pdb
