@@ -1,0 +1,12 @@
+H:\Asp.net code\Asp.net-code-practise-with-devskill\AttendanceSystem\AttendanceSystem.Data\bin\Debug\net5.0\AttendanceSystem.Data.deps.json
+H:\Asp.net code\Asp.net-code-practise-with-devskill\AttendanceSystem\AttendanceSystem.Data\bin\Debug\net5.0\AttendanceSystem.Data.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\AttendanceSystem\AttendanceSystem.Data\bin\Debug\net5.0\ref\AttendanceSystem.Data.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\AttendanceSystem\AttendanceSystem.Data\bin\Debug\net5.0\AttendanceSystem.Data.pdb
+H:\Asp.net code\Asp.net-code-practise-with-devskill\AttendanceSystem\AttendanceSystem.Data\obj\Debug\net5.0\AttendanceSystem.Data.csprojAssemblyReference.cache
+H:\Asp.net code\Asp.net-code-practise-with-devskill\AttendanceSystem\AttendanceSystem.Data\obj\Debug\net5.0\AttendanceSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asp.net code\Asp.net-code-practise-with-devskill\AttendanceSystem\AttendanceSystem.Data\obj\Debug\net5.0\AttendanceSystem.Data.AssemblyInfoInputs.cache
+H:\Asp.net code\Asp.net-code-practise-with-devskill\AttendanceSystem\AttendanceSystem.Data\obj\Debug\net5.0\AttendanceSystem.Data.AssemblyInfo.cs
+H:\Asp.net code\Asp.net-code-practise-with-devskill\AttendanceSystem\AttendanceSystem.Data\obj\Debug\net5.0\AttendanceSystem.Data.csproj.CoreCompileInputs.cache
+H:\Asp.net code\Asp.net-code-practise-with-devskill\AttendanceSystem\AttendanceSystem.Data\obj\Debug\net5.0\AttendanceSystem.Data.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\AttendanceSystem\AttendanceSystem.Data\obj\Debug\net5.0\ref\AttendanceSystem.Data.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\AttendanceSystem\AttendanceSystem.Data\obj\Debug\net5.0\AttendanceSystem.Data.pdb

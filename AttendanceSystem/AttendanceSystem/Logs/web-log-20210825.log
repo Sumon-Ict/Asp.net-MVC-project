@@ -1,0 +1,28 @@
+2021-08-25 00:09:05.629 +06:00 [INF] Application Starting up
+2021-08-25 00:10:00.722 +06:00 [ERR] failed to create student
+AttendanceSystem.Training.Exceptions.DuplicateNameException: this name already used
+   at AttendanceSystem.Training.Services.StudentService.CreateStudent(Student student) in H:\Asp.net code\Asp.net-code-practise-with-devskill\AttendanceSystem\AttendanceSystem.Training\Services\StudentService.cs:line 44
+   at AttendanceSystem.Areas.Admin.Models.CreateStudentModel.createStudent() in H:\Asp.net code\Asp.net-code-practise-with-devskill\AttendanceSystem\AttendanceSystem\Areas\Admin\Models\CreateStudentModel.cs:line 36
+   at AttendanceSystem.Areas.Admin.Controllers.StudentController.Create(CreateStudentModel model) in H:\Asp.net code\Asp.net-code-practise-with-devskill\AttendanceSystem\AttendanceSystem\Areas\Admin\Controllers\StudentController.cs:line 58
+2021-08-25 00:10:13.207 +06:00 [ERR] failed to create student
+AttendanceSystem.Training.Exceptions.DuplicateNameException: this name already used
+   at AttendanceSystem.Training.Services.StudentService.CreateStudent(Student student) in H:\Asp.net code\Asp.net-code-practise-with-devskill\AttendanceSystem\AttendanceSystem.Training\Services\StudentService.cs:line 44
+   at AttendanceSystem.Areas.Admin.Models.CreateStudentModel.createStudent() in H:\Asp.net code\Asp.net-code-practise-with-devskill\AttendanceSystem\AttendanceSystem\Areas\Admin\Models\CreateStudentModel.cs:line 36
+   at AttendanceSystem.Areas.Admin.Controllers.StudentController.Create(CreateStudentModel model) in H:\Asp.net code\Asp.net-code-practise-with-devskill\AttendanceSystem\AttendanceSystem\Areas\Admin\Controllers\StudentController.cs:line 58
+2021-08-25 00:10:56.187 +06:00 [ERR] failed to create student
+AttendanceSystem.Training.Exceptions.DuplicateNameException: this name already used
+   at AttendanceSystem.Training.Services.StudentService.CreateStudent(Student student) in H:\Asp.net code\Asp.net-code-practise-with-devskill\AttendanceSystem\AttendanceSystem.Training\Services\StudentService.cs:line 44
+   at AttendanceSystem.Areas.Admin.Models.CreateStudentModel.createStudent() in H:\Asp.net code\Asp.net-code-practise-with-devskill\AttendanceSystem\AttendanceSystem\Areas\Admin\Models\CreateStudentModel.cs:line 36
+   at AttendanceSystem.Areas.Admin.Controllers.StudentController.Create(CreateStudentModel model) in H:\Asp.net code\Asp.net-code-practise-with-devskill\AttendanceSystem\AttendanceSystem\Areas\Admin\Controllers\StudentController.cs:line 58
+2021-08-25 00:26:29.342 +06:00 [INF] Application Starting up
+2021-08-25 00:27:57.066 +06:00 [ERR] failed to create student
+AttendanceSystem.Training.Exceptions.DuplicateNameException: this name already used
+   at AttendanceSystem.Training.Services.StudentService.CreateStudent(Student student) in H:\Asp.net code\Asp.net-code-practise-with-devskill\AttendanceSystem\AttendanceSystem.Training\Services\StudentService.cs:line 44
+   at AttendanceSystem.Areas.Admin.Models.CreateStudentModel.createStudent() in H:\Asp.net code\Asp.net-code-practise-with-devskill\AttendanceSystem\AttendanceSystem\Areas\Admin\Models\CreateStudentModel.cs:line 36
+   at AttendanceSystem.Areas.Admin.Controllers.StudentController.Create(CreateStudentModel model) in H:\Asp.net code\Asp.net-code-practise-with-devskill\AttendanceSystem\AttendanceSystem\Areas\Admin\Controllers\StudentController.cs:line 58
+2021-08-25 00:30:13.392 +06:00 [ERR] failed to create student
+AttendanceSystem.Training.Exceptions.DuplicateNameException: this name already used
+   at AttendanceSystem.Training.Services.StudentService.CreateStudent(Student student) in H:\Asp.net code\Asp.net-code-practise-with-devskill\AttendanceSystem\AttendanceSystem.Training\Services\StudentService.cs:line 44
+   at AttendanceSystem.Areas.Admin.Models.CreateStudentModel.createStudent() in H:\Asp.net code\Asp.net-code-practise-with-devskill\AttendanceSystem\AttendanceSystem\Areas\Admin\Models\CreateStudentModel.cs:line 36
+   at AttendanceSystem.Areas.Admin.Controllers.StudentController.Create(CreateStudentModel model) in H:\Asp.net code\Asp.net-code-practise-with-devskill\AttendanceSystem\AttendanceSystem\Areas\Admin\Controllers\StudentController.cs:line 58
+2021-08-25 00:35:20.099 +06:00 [INF] Application Starting up
