@@ -1,0 +1,17 @@
+H:\Asp.net code\Asp.net-code-practise-with-devskill\SocialNetwork\SocialNetwork.Training\obj\Debug\net5.0\SocialNetwork.Training.csprojAssemblyReference.cache
+H:\Asp.net code\Asp.net-code-practise-with-devskill\SocialNetwork\SocialNetwork.Training\obj\Debug\net5.0\SocialNetwork.Training.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asp.net code\Asp.net-code-practise-with-devskill\SocialNetwork\SocialNetwork.Training\obj\Debug\net5.0\SocialNetwork.Training.AssemblyInfoInputs.cache
+H:\Asp.net code\Asp.net-code-practise-with-devskill\SocialNetwork\SocialNetwork.Training\obj\Debug\net5.0\SocialNetwork.Training.AssemblyInfo.cs
+H:\Asp.net code\Asp.net-code-practise-with-devskill\SocialNetwork\SocialNetwork.Training\obj\Debug\net5.0\SocialNetwork.Training.csproj.CoreCompileInputs.cache
+H:\Asp.net code\Asp.net-code-practise-with-devskill\SocialNetwork\SocialNetwork.Training\bin\Debug\net5.0\SocialNetwork.Training.deps.json
+H:\Asp.net code\Asp.net-code-practise-with-devskill\SocialNetwork\SocialNetwork.Training\bin\Debug\net5.0\SocialNetwork.Training.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\SocialNetwork\SocialNetwork.Training\bin\Debug\net5.0\ref\SocialNetwork.Training.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\SocialNetwork\SocialNetwork.Training\bin\Debug\net5.0\SocialNetwork.Training.pdb
+H:\Asp.net code\Asp.net-code-practise-with-devskill\SocialNetwork\SocialNetwork.Training\obj\Debug\net5.0\SocialNetwork.Training.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\SocialNetwork\SocialNetwork.Training\obj\Debug\net5.0\ref\SocialNetwork.Training.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\SocialNetwork\SocialNetwork.Training\obj\Debug\net5.0\SocialNetwork.Training.pdb
+H:\Asp.net code\Asp.net-code-practise-with-devskill\SocialNetwork\SocialNetwork.Training\bin\Debug\net5.0\SocialNetwork.Data.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\SocialNetwork\SocialNetwork.Training\bin\Debug\net5.0\SocialNetwork.Data.pdb
+H:\Asp.net code\Asp.net-code-practise-with-devskill\SocialNetwork\SocialNetwork.Training\obj\Debug\net5.0\SocialNetwork.Training.csproj.CopyComplete
+H:\Asp.net code\Asp.net-code-practise-with-devskill\SocialNetwork\SocialNetwork.Training\bin\Debug\net5.0\SocialNetwork.Common.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\SocialNetwork\SocialNetwork.Training\bin\Debug\net5.0\SocialNetwork.Common.pdb

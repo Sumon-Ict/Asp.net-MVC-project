@@ -1,0 +1,12 @@
+H:\Asp.net code\Asp.net-code-practise-with-devskill\SocialNetwork\SocialNetwork.Common\bin\Debug\net5.0\SocialNetwork.Common.deps.json
+H:\Asp.net code\Asp.net-code-practise-with-devskill\SocialNetwork\SocialNetwork.Common\bin\Debug\net5.0\SocialNetwork.Common.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\SocialNetwork\SocialNetwork.Common\bin\Debug\net5.0\ref\SocialNetwork.Common.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\SocialNetwork\SocialNetwork.Common\bin\Debug\net5.0\SocialNetwork.Common.pdb
+H:\Asp.net code\Asp.net-code-practise-with-devskill\SocialNetwork\SocialNetwork.Common\obj\Debug\net5.0\SocialNetwork.Common.csprojAssemblyReference.cache
+H:\Asp.net code\Asp.net-code-practise-with-devskill\SocialNetwork\SocialNetwork.Common\obj\Debug\net5.0\SocialNetwork.Common.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asp.net code\Asp.net-code-practise-with-devskill\SocialNetwork\SocialNetwork.Common\obj\Debug\net5.0\SocialNetwork.Common.AssemblyInfoInputs.cache
+H:\Asp.net code\Asp.net-code-practise-with-devskill\SocialNetwork\SocialNetwork.Common\obj\Debug\net5.0\SocialNetwork.Common.AssemblyInfo.cs
+H:\Asp.net code\Asp.net-code-practise-with-devskill\SocialNetwork\SocialNetwork.Common\obj\Debug\net5.0\SocialNetwork.Common.csproj.CoreCompileInputs.cache
+H:\Asp.net code\Asp.net-code-practise-with-devskill\SocialNetwork\SocialNetwork.Common\obj\Debug\net5.0\SocialNetwork.Common.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\SocialNetwork\SocialNetwork.Common\obj\Debug\net5.0\ref\SocialNetwork.Common.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\SocialNetwork\SocialNetwork.Common\obj\Debug\net5.0\SocialNetwork.Common.pdb
