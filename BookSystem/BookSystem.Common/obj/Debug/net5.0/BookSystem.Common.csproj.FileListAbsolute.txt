@@ -1,0 +1,12 @@
+H:\Asp.net code\Asp.net-code-practise-with-devskill\BookSystem\BookSystem.Common\bin\Debug\net5.0\BookSystem.Common.deps.json
+H:\Asp.net code\Asp.net-code-practise-with-devskill\BookSystem\BookSystem.Common\bin\Debug\net5.0\BookSystem.Common.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\BookSystem\BookSystem.Common\bin\Debug\net5.0\ref\BookSystem.Common.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\BookSystem\BookSystem.Common\bin\Debug\net5.0\BookSystem.Common.pdb
+H:\Asp.net code\Asp.net-code-practise-with-devskill\BookSystem\BookSystem.Common\obj\Debug\net5.0\BookSystem.Common.csprojAssemblyReference.cache
+H:\Asp.net code\Asp.net-code-practise-with-devskill\BookSystem\BookSystem.Common\obj\Debug\net5.0\BookSystem.Common.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asp.net code\Asp.net-code-practise-with-devskill\BookSystem\BookSystem.Common\obj\Debug\net5.0\BookSystem.Common.AssemblyInfoInputs.cache
+H:\Asp.net code\Asp.net-code-practise-with-devskill\BookSystem\BookSystem.Common\obj\Debug\net5.0\BookSystem.Common.AssemblyInfo.cs
+H:\Asp.net code\Asp.net-code-practise-with-devskill\BookSystem\BookSystem.Common\obj\Debug\net5.0\BookSystem.Common.csproj.CoreCompileInputs.cache
+H:\Asp.net code\Asp.net-code-practise-with-devskill\BookSystem\BookSystem.Common\obj\Debug\net5.0\BookSystem.Common.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\BookSystem\BookSystem.Common\obj\Debug\net5.0\ref\BookSystem.Common.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\BookSystem\BookSystem.Common\obj\Debug\net5.0\BookSystem.Common.pdb

@@ -1,0 +1,12 @@
+H:\Asp.net code\Asp.net-code-practise-with-devskill\BookSystem\BookSystem.Data\bin\Debug\net5.0\BookSystem.Data.deps.json
+H:\Asp.net code\Asp.net-code-practise-with-devskill\BookSystem\BookSystem.Data\bin\Debug\net5.0\BookSystem.Data.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\BookSystem\BookSystem.Data\bin\Debug\net5.0\ref\BookSystem.Data.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\BookSystem\BookSystem.Data\bin\Debug\net5.0\BookSystem.Data.pdb
+H:\Asp.net code\Asp.net-code-practise-with-devskill\BookSystem\BookSystem.Data\obj\Debug\net5.0\BookSystem.Data.csprojAssemblyReference.cache
+H:\Asp.net code\Asp.net-code-practise-with-devskill\BookSystem\BookSystem.Data\obj\Debug\net5.0\BookSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asp.net code\Asp.net-code-practise-with-devskill\BookSystem\BookSystem.Data\obj\Debug\net5.0\BookSystem.Data.AssemblyInfoInputs.cache
+H:\Asp.net code\Asp.net-code-practise-with-devskill\BookSystem\BookSystem.Data\obj\Debug\net5.0\BookSystem.Data.AssemblyInfo.cs
+H:\Asp.net code\Asp.net-code-practise-with-devskill\BookSystem\BookSystem.Data\obj\Debug\net5.0\BookSystem.Data.csproj.CoreCompileInputs.cache
+H:\Asp.net code\Asp.net-code-practise-with-devskill\BookSystem\BookSystem.Data\obj\Debug\net5.0\BookSystem.Data.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\BookSystem\BookSystem.Data\obj\Debug\net5.0\ref\BookSystem.Data.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\BookSystem\BookSystem.Data\obj\Debug\net5.0\BookSystem.Data.pdb

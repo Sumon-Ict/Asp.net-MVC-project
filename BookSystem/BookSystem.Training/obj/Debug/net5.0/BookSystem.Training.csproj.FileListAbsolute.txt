@@ -1,0 +1,17 @@
+H:\Asp.net code\Asp.net-code-practise-with-devskill\BookSystem\BookSystem.Training\bin\Debug\net5.0\BookSystem.Training.deps.json
+H:\Asp.net code\Asp.net-code-practise-with-devskill\BookSystem\BookSystem.Training\bin\Debug\net5.0\BookSystem.Training.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\BookSystem\BookSystem.Training\bin\Debug\net5.0\ref\BookSystem.Training.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\BookSystem\BookSystem.Training\bin\Debug\net5.0\BookSystem.Training.pdb
+H:\Asp.net code\Asp.net-code-practise-with-devskill\BookSystem\BookSystem.Training\bin\Debug\net5.0\BookSystem.Data.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\BookSystem\BookSystem.Training\bin\Debug\net5.0\BookSystem.Data.pdb
+H:\Asp.net code\Asp.net-code-practise-with-devskill\BookSystem\BookSystem.Training\obj\Debug\net5.0\BookSystem.Training.csprojAssemblyReference.cache
+H:\Asp.net code\Asp.net-code-practise-with-devskill\BookSystem\BookSystem.Training\obj\Debug\net5.0\BookSystem.Training.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asp.net code\Asp.net-code-practise-with-devskill\BookSystem\BookSystem.Training\obj\Debug\net5.0\BookSystem.Training.AssemblyInfoInputs.cache
+H:\Asp.net code\Asp.net-code-practise-with-devskill\BookSystem\BookSystem.Training\obj\Debug\net5.0\BookSystem.Training.AssemblyInfo.cs
+H:\Asp.net code\Asp.net-code-practise-with-devskill\BookSystem\BookSystem.Training\obj\Debug\net5.0\BookSystem.Training.csproj.CoreCompileInputs.cache
+H:\Asp.net code\Asp.net-code-practise-with-devskill\BookSystem\BookSystem.Training\obj\Debug\net5.0\BookSystem.Training.csproj.CopyComplete
+H:\Asp.net code\Asp.net-code-practise-with-devskill\BookSystem\BookSystem.Training\obj\Debug\net5.0\BookSystem.Training.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\BookSystem\BookSystem.Training\obj\Debug\net5.0\ref\BookSystem.Training.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\BookSystem\BookSystem.Training\obj\Debug\net5.0\BookSystem.Training.pdb
+H:\Asp.net code\Asp.net-code-practise-with-devskill\BookSystem\BookSystem.Training\bin\Debug\net5.0\BookSystem.Common.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\BookSystem\BookSystem.Training\bin\Debug\net5.0\BookSystem.Common.pdb
