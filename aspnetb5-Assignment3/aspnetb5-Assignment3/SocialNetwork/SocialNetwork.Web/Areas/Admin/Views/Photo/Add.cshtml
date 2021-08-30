@@ -1,0 +1,56 @@
+﻿@model AddPhotoModel
+
+@{
+    ViewData["Title"] = "ADD";
+}
+
+<section class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1>Add Photo</h1>
+            </div>
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item"><a asp-area="Admin" asp-controller="Photo" asp-action="Index">Home</a></li>
+                    <li class="breadcrumb-item active">Add Photo</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-12">
+        <div class="card card-info">
+            <div class="card-header">
+                <h3 class="card-title">Add Photo</h3>
+            </div>
+            <div class="">
+                <div class="col-md-4">
+                    <form asp-area="Admin" asp-controller="Photo" asp-action="Add"
+                          asp-antiforgery="true">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <div class="form-group">
+                            <label asp-for="MemberId" class="control-label"></label>
+                            <input asp-for="MemberId" class="form-control" />
+                            <span asp-validation-for="MemberId" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="PhotoFileName" class="control-label"></label>
+                            <input asp-for="PhotoFileName" class="form-control" />
+                            <span asp-validation-for="PhotoFileName" class="text-danger"></span>
+                        </div>
+                        <div class="card-footer">
+                            <button type="submit" class="btn btn-info">Add</button>
+                            <a asp-area="Admin" asp-controller="Photo" asp-action="Index"
+                               class="btn btn-default float-right">Cancel</a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+
+

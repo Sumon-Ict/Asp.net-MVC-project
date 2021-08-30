@@ -1,0 +1,56 @@
+﻿@model EditStudentModel
+@{
+    ViewData["Title"] = "Edit Student";
+}
+
+<section class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1>Edit Student</h1>
+            </div>
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item"><a asp-area="Admin" asp-controller="Student" asp-action="Index">Home</a></li>
+                    <li class="breadcrumb-item active">Edit Student</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-12">
+        <div class="card card-info">
+            <div class="card-header">
+                <h3 class="card-title">Edit Student</h3>
+            </div>
+            <!-- /.card-header -->
+            <!-- form start -->
+            <form class="form-horizontal" asp-controller="Student" asp-action="Edit"
+                  asp-antiforgery="true">
+                <input type="hidden" asp-for="Id" />
+                <div asp-validation-summary="All" class="text-danger"></div>
+                <div class="card-body">
+                    <div class="form-group row">
+                        <label asp-for="Name" class="col-sm-2 col-form-label">Name</label>
+                        <div class="col-sm-10">
+                            <input asp-for="Name" type="text" class="form-control" id="student-name" placeholder="Name">
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <label asp-for="StudentRollNumber" class="col-sm-2 col-form-label">Roll</label>
+                        <div class="col-sm-10">
+                            <input asp-for="StudentRollNumber" type="number" class="form-control" id="student-roll" placeholder="Roll">
+                        </div>
+                    </div>
+                </div>
+                <!-- /.card-body -->
+                <div class="card-footer">
+                    <button type="submit" class="btn btn-info">Edit</button>
+                    <a asp-area="Admin" asp-controller="Student" asp-action="Index"
+                       class="btn btn-default float-right">Cancel</a>
+                </div>
+                <!-- /.card-footer -->
+            </form>
+        </div>
+    </div>
+</section>
+
